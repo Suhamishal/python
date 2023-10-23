@@ -1,6 +1,6 @@
 # python
 
-one of the 'hardest program i've made :) 
+PROGRAM1: one of the 'hardest program i've made :) 
 
 python program to print PYTHON like 
 P 
